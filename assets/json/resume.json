@@ -27,7 +27,7 @@
   "education": [
     {
       "institution": "The Australian National University",
-      "location": "Canberra, Australia",
+      "location": "Canberra",
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2023-03-02",
@@ -35,7 +35,7 @@
     },
     {
       "institution": "Seoul National University",
-      "location": "Seoul, South Korea",
+      "location": "Seoul",
       "area": "Industrial Engineering",
       "studyType": "Master",
       "startDate": "2021-03-02",
@@ -43,7 +43,7 @@
     },
     {
       "institution": "Seoul National University",
-      "location": "Seoul, South Korea",
+      "location": "Seoul",
       "area": "Musicology and Music Theory",
       "studyType": "Bachelor",
       "startDate": "2013-03-02",
