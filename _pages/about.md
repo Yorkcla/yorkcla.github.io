@@ -6,12 +6,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: impression.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>impression Ⅲ - concert, Wassily Kandinsky</p>
-    <p>visual music</p>
-    <p>내용을 갖지 않는 어떤 형태는 손이 아니라 단지 공기가 가득 차있는 빈 장갑이다</p>
+    <p>Impression Ⅲ - concert, Wassily Kandinsky</p>
+    <p>내용을 갖지 않는 어떤 형태는 손이 아니라 단지 공기가 가득 차 있는 빈 장갑이다.</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
