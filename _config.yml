@@ -64,13 +64,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: yorkcla # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: cms6330@snu.ac.kr # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Email me! 📬
+  📬
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -120,8 +120,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: # blog_name will be displayed in your blog page
+blog_description: just some simple notes
 permalink: /blog/:year/:title/
 
 # Pagination
