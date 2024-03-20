@@ -9,7 +9,7 @@ profile:
   image: impression.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Impression Ⅲ - concert, Wassily Kandinsky</p>
+    <p>Impression III (Concert), Wassily Kandinsky</p>
     <p>dd.</p>
 
 news: true # includes a list of news items
