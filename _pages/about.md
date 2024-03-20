@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Music and beyond
+subtitle: Music and beyond 🎶
 
 profile:
   align: right
