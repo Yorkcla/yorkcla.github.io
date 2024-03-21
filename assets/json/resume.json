@@ -4,7 +4,7 @@
     "label": "Music and HCI researcher",
     "image": "",
     "email": "minsik.choi@anu.edu.au",
-    "summary": "Music and Beyond; Drawing from my experience in clarinet performance, musicology, and human factors, I explore the intersections of sound, music, and HCI.",
+    "summary": "Music and HCI researcher; Sonic interaction design tool development for practitioners lacking tonal music knowledge as my PhD study",
     "location": {
       "address": "The Australian National University",
       "postalCode": "2601",
@@ -15,27 +15,21 @@
   },
   "work": [
     {
-      "name": "SMCCLAB: Sound, Music and Creative Computing Lab",
-      "position": "PhD Researcher",
+      "name": "PhD Researcher",
+      "position": "SMCCLAB: Sound, Music and Creative Computing Lab",
       "url": "http://charlesmartin.au/lab/",
-      "startDate": "2023-03-02",
-      "endDate": "2027-03-02",
-      "summary": "Sonic interaction design tool development for practitioners lacking tonal music knowledge",
-      "highlights": ["auditory interface design"]
+      "startDate": "2023-03-02"
     }
   ],
   "education": [
     {
       "institution": "The Australian National University",
-      "location": "Canberra",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2023-03-02",
-      "endDate": "2027-03-02"
+      "startDate": "2023-03-02"
     },
     {
       "institution": "Seoul National University",
-      "location": "Seoul",
       "area": "Industrial Engineering",
       "studyType": "Master's",
       "startDate": "2021-03-02",
@@ -43,7 +37,6 @@
     },
     {
       "institution": "Seoul National University",
-      "location": "Seoul",
       "area": "Musicology and Music Theory",
       "studyType": "Bachelor's",
       "startDate": "2013-03-02",
@@ -51,7 +44,6 @@
     },
     {
       "institution": "Sunhwa Arts High School",
-      "location": "Seoul",
       "area": "Clarinet Performance",
       "startDate": "2010-03-02",
       "endDate": "2013-02-28"
