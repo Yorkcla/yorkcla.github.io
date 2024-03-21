@@ -180,11 +180,11 @@ span.badge-toc {
 
 ul.timeline li::before {
   content: "";
-  min-height: 1.5rem;
+  min-height: 2.5rem;
   width: 1px;
   background: var(--global-text-color);
   margin: 0;
-  padding: 1rem;
+  padding: 0;
   position: absolute;
   left: 2px;
   top: -0.5rem;
