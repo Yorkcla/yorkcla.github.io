@@ -24,26 +24,27 @@
     {
       "institution": "The Australian National University",
       "area": "Computer Science",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2023-03-02"
     },
     {
       "institution": "Seoul National University",
       "area": "Industrial Engineering",
-      "studyType": "Master's",
+      "studyType": "Master of Science",
       "startDate": "2021-03-02",
       "endDate": "2023-02-24"
     },
     {
       "institution": "Seoul National University",
       "area": "Musicology and Music Theory",
-      "studyType": "Bachelor's",
+      "studyType": "Bachelor of Music",
       "startDate": "2013-03-02",
       "endDate": "2020-02-28"
     },
     {
       "institution": "Sunhwa Arts High School",
       "area": "Clarinet Performance",
+      "studyType": "Secondary",
       "startDate": "2010-03-02",
       "endDate": "2013-02-28"
     }
