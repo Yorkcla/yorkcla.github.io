@@ -173,18 +173,18 @@ span.badge-toc {
   background-color: var(--global-theme-color);
   border-radius: 0.125rem;
   padding: 0.125rem 0.5rem 0.125rem 0.5rem;
-  font-weight: 400 !important;
+  font-weight: 700 !important;
   display: inline-block;
   inline-size: fit-content;
 }
 
 ul.timeline li::before {
   content: "";
-  min-height: 2rem;
+  min-height: 1.5rem;
   width: 1px;
   background: var(--global-text-color);
   margin: 0;
-  padding: 0.5rem;
+  padding: 1rem;
   position: absolute;
   left: 2px;
   top: -0.5rem;
