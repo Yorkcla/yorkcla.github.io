@@ -17,7 +17,13 @@
       "name": "PhD researcher under Dr. Charles Martin",
       "position": "SMCCLAB",
       "url": "http://charlesmartin.au/lab/",
-      "startDate": "2023-03-02"
+      "startDate": "2023-03-02",
+      "highlights": [
+        {
+          "text": "PhD Projects",
+          "url": "/projects/"
+        }
+      ]
     }
   ],
   "education": [
