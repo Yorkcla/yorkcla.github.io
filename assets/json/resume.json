@@ -15,34 +15,35 @@
   "work": [
     {
         "name": "PhD researcher under Dr. Charles Martin",
+        "summary": "2023-03-02 - ",
         "position": "SMCCLAB",
-        "url": "http://charlesmartin.au/lab/",
-        "startDate": "2023-03-02"
+        "url": "http://charlesmartin.au/lab/"
     }
   ],
   "education": [
     {
-      "institution": "The Australian National University",
-      "area": "Ph.D. in Computer Science",
-      "startDate": "2023-03-02"
+      "institution": "Clarinet Performance",
+      "url": "http://www.sunhwa.org/",
+      "studyType": "Sunhwa Arts High School",
+      "area": "2010-03-02 - 2013-02-28"
     },
     {
-      "institution": "Seoul National University",
-      "area": "M.S. in Industrial Engineering",
-      "startDate": "2021-03-02",
-      "endDate": "2023-02-24"
+      "institution": "B.M. in Musicology and Music Theory",
+      "url": "https://en.snu.ac.kr/",
+      "studyType": "Seoul National University",
+      "area": "2013-03-02 - 2020-02-28"
     },
     {
-      "institution": "Seoul National University",
-      "area": "B.M. in Musicology and Music Theory",
-      "startDate": "2013-03-02",
-      "endDate": "2020-02-28"
+      "institution": "M.S. in Industrial Engineering",
+      "url": "https://en.snu.ac.kr/",
+      "studyType": "Seoul National University",
+      "area": "2021-03-02 - 2023-02-24"
     },
     {
-      "institution": "Sunhwa Arts High School",
-      "area": "Clarinet Performance",
-      "startDate": "2010-03-02",
-      "endDate": "2013-02-28"
+      "institution": "Ph.D. in Computer Science",
+      "url": "https://www.anu.edu.au/",
+      "studyType": "The Australian National University",
+      "area": "2023.03 - "
     }
   ]
 }
