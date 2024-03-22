@@ -2,9 +2,9 @@
 layout: post
 title: first memo
 date: 2024-03-22 14:42:16
-description: notthing special but beginning 
-tags: formatting links
-categories: sample-posts
+description: 드디어 만들었다 그리고 칸딘스키 멋있다! 
+tags: Kandinsky
+categories: everyday
 ---
 
 한글 적을 수 있는 거 맞지? 시작이 반이다! 한국어는 행복이다. 
