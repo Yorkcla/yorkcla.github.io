@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: publications
+description: PDF attached only for first-authored papers 🙂
 nav: true
 nav_order: 2
 ---

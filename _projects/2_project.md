@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Music in Sonification
+description: User exploration in sound creation
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: PhD
 giscus_comments: true
 ---
 

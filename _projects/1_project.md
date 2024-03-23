@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Sonification and Music 
+description: Systematic literature review
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: PhD
 related_publications: true
 ---
 
