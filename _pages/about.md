@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 Music and beyond 🎧; I'm a computer science PhD student conducting research at the intersections of sound, music, and HCI at [ANU](https://www.anu.edu.au/).
 
-I began my academic career as a clarinetist and pursued a undergraduate degree in musicology, with a keen interest in anthropology. I experienced engineering projects within the field of human factors as well. This journey led me to become an interdisciplinary music researcher, focusing on music, human, and interaction design.
+I began my academic career as a clarinetist and pursued a undergraduate degree in musicology, with a keen interest in anthropology. I experienced engineering projects within the fields of industrial engineering as well. This journey led me to become an interdisciplinary music researcher, focusing on music, human, and interaction design.
