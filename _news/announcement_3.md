@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TPR submission and presentation is very soon 🔥
+Working on TPR(thesis proposal report) 🔥
