@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Setting up! :smile:
+setting up :smile:
