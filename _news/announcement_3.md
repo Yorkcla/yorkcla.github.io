@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Working on TPR(thesis proposal report) 🔥
+working on thesis proposal report 🔥
