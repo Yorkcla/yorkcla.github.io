@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-actual kick off, very first personal website!
+very first personal website!
