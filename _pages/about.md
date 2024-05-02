@@ -14,8 +14,6 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-<meta name="google-site-verification" content="V5skZwHNa5HjedOxAyXsRdNwkHDQKogQyFbDViFQ930" />
 ---
 
 Music and beyond 🎧; I'm a computer science PhD student doing research at the intersections of sound, music, and HCI at [ANU](https://www.anu.edu.au/).
