@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Orchestra, Esme Quartet, and Conference
+title: Some updates!
 date: 2024-06-10 10:19:00
-description: 스스로를 위한 근황 정리
+description: 최근에 말이야..
 tags: Updates
 categories: everyday
 ---
