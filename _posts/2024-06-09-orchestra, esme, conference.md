@@ -3,7 +3,7 @@ layout: post
 title: Some updates!
 date: 2024-06-10 10:19:00
 description: 최근에 말이야..
-tags: Orchestra, Esme quartet, TPR, Conference
+tags: Orchestra Esme TPR Conference
 categories: everyday
 ---
 
