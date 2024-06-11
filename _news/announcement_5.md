@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-part of my master's study has been accepted for 2024 AES automotive audio conference 👍🏻
+my master's study has been accepted for a conference 👍🏻

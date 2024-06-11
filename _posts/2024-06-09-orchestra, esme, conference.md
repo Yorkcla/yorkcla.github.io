@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orchestra, Esme Quartet, TPR, and Conference
+title: Orchestra, Esme Quartet, and Conference
 date: 2024-06-10 10:19:00
 description: 스스로를 위한 근황 정리
 tags: Updates
@@ -19,7 +19,7 @@ categories: everyday
 
 그럼 나와 모두의 안녕을 빌며 다음에 또 적자!
 
-아.. 어제 신부님, 성당 사람들과 연구실에 와서 커피를 마셨는데 뭔가 한 줄 남기고 싶었음! 퀄리티 타임이었다.
+아.. 어제(6월 10일) 신부님, 성당 사람들과 연구실에 와서 커피를 마셨는데 뭔가 한 줄 남기고 싶었음! 퀄리티 타임이었다.
 
 정말로 안녕!
 
