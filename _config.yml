@@ -3,12 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: Minsik Choi
+
 first_name: Minsik
 middle_name: 
 last_name: Choi
 email: minsik.choi@anu.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Minsik Choi, computer science PhD student in the intersections of sound, music, and human computer interaction.
+  Minsik Choi, computer science PhD candidate in the intersections of sound, music, and human computer interaction.
 footer_text: >
 keywords: HCI, auditory-interface, computer-science, music-technology # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
