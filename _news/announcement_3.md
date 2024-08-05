@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-23 12:45:00-0400
+date: 2024-08-01 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-working on thesis proposal report 🔥
+paper accepted for AudioMostly 2024 👍🏻

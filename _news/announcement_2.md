@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-03-23 12:45:00-0400
+date: 2024-05-20 12:45:00-0400
 inline: true
 related_posts: false
 ---
 
-very first personal website!
+paper accepted for AES conference on automotive audio 2024 👍🏻
