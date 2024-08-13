@@ -1,0 +1,333 @@
+/* Ensure the body takes up the full viewport height */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Source Code Pro', monospace; /* Apply Source Code Pro font */
+}
+
+.container {
+  display: flex;
+  height: 100vh; /* Full viewport height */
+}
+
+#half-one {
+  flex: 1; /* Takes up half of the container */
+  display: flex;
+  flex-direction: column; /* Stack the subsections vertically */
+  padding: 20px;
+  box-sizing: border-box; /* Includes padding in the width and height */
+  overflow-y: auto; /* Allows scrolling if content overflows */
+}
+
+.subsection {
+  flex: 1; /* Each subsection takes up half of #half-one */
+  padding: 10px;
+  box-sizing: border-box; /* Includes padding in the width and height */
+  overflow-y: auto; /* Allows scrolling if content overflows */
+}
+
+#text-section-1 {
+  background-color: #e0f7fa; /* Light background for text section */
+}
+
+#image-section-1 {
+  background-color: #4db6ac; /* Slightly darker background for image section */
+}
+
+#half-two {
+  flex: 1; /* Takes up the other half of the container */
+  padding: 20px;
+  box-sizing: border-box; /* Includes padding in the width and height */
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Storyboard Creation */
+.storyboard-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  overflow-y: auto;
+}
+
+.storyboard-box {
+  position: relative;
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+.storyboard-box h3 {
+  margin-top: 0;
+}
+
+.storyboard-box textarea {
+  flex-grow: 1;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.storyboard-image {
+  height: 200px;
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.storyboard-image img {
+  max-width: 100%; /* Fit the width of the container */
+  max-height: 100%; /* Fit the height of the container */
+  object-fit: contain; /* Maintain aspect ratio without cropping */
+}
+
+/* Form styling */
+textarea, input {
+  width: 100%; /* Full width of the container */
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  font-family: 'Source Code Pro', monospace; /* Consistent font for text area and input */
+}
+
+button {
+  padding: 5px 5px;
+  font-size: 12px;
+  background-color: #adaddb;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 10; /* Ensure button is above other content */
+  display: inline-block;
+}
+
+button:hover {
+  background-color: #00796b;
+}
+
+.button-container {
+  display: 0 1 auto;
+  gap: 10px; /* Adjust spacing as needed */
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+/* Positioning for Next Step button */
+#next-step-btn {
+  background-color: #666666;
+}
+
+#next-step-btn:hover {
+  background-color: #333333; /* Darker background color on hover */
+  color: #ffffff; /* Ensure text color is readable */
+}
+
+/* Positioning for Previous Step button */
+#previous-step-btn {
+  background-color: #666666;
+}
+
+#previous-step-btn:hover {
+  background-color: #333333; /* Darker background color on hover */
+  color: #ffffff; /* Ensure text color is readable */
+}
+
+/* Chat history styling */
+.chat-history {
+  border: 1px solid #ccc; /* Light border for the chat history */
+  padding: 10px;
+  background-color: #fff; /* White background for the chat history */
+  max-height: calc(100vh - 200px); /* Limit height for scrolling */
+  overflow-y: auto; /* Enable scrolling if content overflows */
+  overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.message {
+  margin-bottom: 10px;
+  padding: 5px;
+  max-width: 100%;
+  word-wrap: break-word;
+  box-sizing: border-box;
+}
+
+.user-message {
+  align-self: flex-end; /* Align user messages to the right */
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.chatbot-message {
+  align-self: flex-start; /* Align chatbot messages to the left */
+  background-color: #c1e1c5; /* Light blue background for chatbot messages */
+  border-radius: 10px;
+}
+
+.message p {
+  margin: 0;
+}
+
+/* Add margin to image result */
+#image-result-1 {
+  margin-top: 10px; /* Add space between button and generated image */
+}
+
+/* Modal Styling */
+.modal {
+  display: none; 
+  position: fixed; 
+  z-index: 999; 
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 10% auto;
+  padding: 40px;
+  border: 1px solid #888;
+  width: 40%;
+  height: 55%;
+  align-items: center;
+}
+
+.close-btn {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close-btn:hover,
+.close-btn:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#onboarding-steps .step {
+  display: none;
+}
+
+/* Progress Bar Container */
+#progress-bar-container {
+  position: fixed; /* Keeps it in place */
+  top: 20px; /* Distance from the top */
+  left: 20px; /* Distance from the left */
+  width: 200px; /* Width of the progress bar container */
+  height: 10px; /* Height of the progress bar */
+  background-color: #e0e0e0; /* Background color */
+  border-radius: 10px; /* Rounded corners */
+  border: 1px solid #ccc; /* Border color */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Shadow for depth */
+}
+
+/* Progress Bar Fill */
+#progress-bar {
+  height: 100%; /* Full height of the container */
+  width: 0%; /* Initial width */
+  background-color: #adaddb; /* Color of the progress */
+  border-radius: 10px; /* Rounded corners */
+  transition: width 0.3s ease; /* Smooth transition */
+}
+
+/* Checkbox */
+
+.checkbox {
+  cursor: pointer;
+}
+.storyboard-box.completed {
+  background-color: #adaddb; /* Change this to the desired color */
+}
+
+.video {
+  width: 100%;
+  max-width: 700px; /* or any max width you prefer */
+  height: auto;
+  margin-bottom: auto;
+}
+
+.upload-btn {
+  display: inline-block;
+  padding: 5px 5px;
+  margin-top: 10px;
+  background-color: #adaddb;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.upload-btn:hover {
+  background-color: #00796b;
+}
+
+/* General styling for the form */
+#dropdown-form {
+  max-width: 300px; /* Adjust width as needed */
+  margin: 0 auto; /* Center the form horizontally */
+  padding: 10px; /* Add padding around the form */
+  background-color: #f9f9f9; /* Background color for the form */
+}
+
+/* Styling for the main dropdown */
+#variable-dropdown {
+  width: 100%; /* Full width of the container */
+  padding: 5px; /* Match padding with the button */
+  font-size: 12px; /* Match font size with the button */
+  margin-bottom: 15px; /* Space between the main dropdown and dynamic dropdowns */
+  border: 1px solid #ccc; /* Border for dropdown */
+  border-radius: 5px; /* Match border radius with the button */
+}
+
+/* Styling for dynamically created dropdowns container */
+#dynamic-dropdown-container {
+  display: flex; /* Use flexbox for layout */
+  flex-direction: column; /* Stack dropdowns vertically */
+  gap: 10px; /* Space between each dropdown */
+}
+
+/* Styling for each dynamic dropdown */
+#dynamic-dropdown-container select {
+  width: 100%; /* Full width of the container */
+  padding: 5px; /* Match padding with the button */
+  font-size: 12px; /* Match font size with the button */
+  border: 1px solid #ccc; /* Border for dropdowns */
+  border-radius: 5px; /* Match border radius with the button */
+}
+
+/* Styling for the submit button */
+#dropdown-form button {
+  padding: 5px 5px; /* Match existing button style */
+  font-size: 12px; /* Match existing button font size */
+  background-color: #adaddb; /* Match existing button background color */
+  color: white; /* Match existing button text color */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Match existing button border radius */
+  cursor: pointer; /* Change cursor to pointer */
+  z-index: 10; /* Ensure button is above other content */
+  display: inline-block; /* Inline-block display */
+  margin-top: 10px;
+}
+
+/* Hover effect for the button */
+#dropdown-form button:hover {
+  background-color: #00796b; /* Match existing hover background color */
+}
