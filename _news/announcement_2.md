@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-paper accepted for AES conference on automotive audio 2024 👍🏻
+paper accepted for AES conference on automotive audio 2024 
