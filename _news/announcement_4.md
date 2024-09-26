@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-paper accepted for Creativity & Cognition 2023 👍🏻 
+paper accepted for Creativity & Cognition 2023
