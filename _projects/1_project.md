@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sonification and Music 
-description: Systematic literature review [SMCC LAB]
+description: Systematic literature review [SMACC LAB]
 img: assets/img/8.jpg
 importance: 1
 category: PhD
