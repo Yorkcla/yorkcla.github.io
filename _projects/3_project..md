@@ -8,9 +8,9 @@ category: PhD
 ---
 
 
-<<div class="row mt-3">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <embed src="assets/pdf/overall_system.pdf" type="application/pdf" width="100%" height="600px" class="pdf-viewer" />
+        {% include figure.liquid loading="eager" path="assets/img/overall_system.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
