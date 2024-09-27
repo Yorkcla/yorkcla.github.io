@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tonal Cognition in Sonic Interaction Design
+title: Sonic Interaction Design Practices
 description: User study of practitioners in sound design [SMACC LAB]
 img: assets/img/5.jpg
 importance: 2

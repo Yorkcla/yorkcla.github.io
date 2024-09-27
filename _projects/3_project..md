@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI-powered Creativity Support Tool for Sonic Interaction Design
+title: AI-powered Creativity Support Tool
 description: Prototyping web-based sound design tool with Gen-AI features [SMACC LAB]
 img: assets/img/7.jpg
 importance: 3
