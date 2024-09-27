@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-done the thesis proposal review; been a PhD candidate 
+Done the thesis proposal review; been a PhD candidate 

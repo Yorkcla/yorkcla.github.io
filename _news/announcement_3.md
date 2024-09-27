@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-paper accepted for AudioMostly 2024 
+Paper accepted for AudioMostly 2024 
