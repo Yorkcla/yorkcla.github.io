@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Music and beyond 🎧; I'm a computer science PhD candidate doing research at the intersections of sound, music, and HCI at [ANU](https://www.anu.edu.au/).
+Music and beyond 🎧; I'm a `computer science PhD candidate` doing research at the intersections of sound, music, and HCI at [ANU](https://www.anu.edu.au/).
 
 I began my academic career as a `clarinetist` and pursued an undergraduate degree in `musicology and music theory`. I experienced engineering projects within the fields of `industrial engineering` during master's studies. This journey led me to become an `interdisciplinary sound and music researcher`, focusing on music, human, and interaction design.
 
-My PhD research focuses on developing `a sonic interaction design tool`—a creativity support system—that leverages tonal music principles to assist `practitioners without musical expertise`.
+My PhD research focuses on developing a `sonic interaction design tool`—a creativity support system—that leverages tonal music principles to assist `practitioners without musical expertise`.
