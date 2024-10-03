@@ -1,8 +1,8 @@
 ---
 layout: page
 title: AI-powered Creativity Support Tool
-description: Prototyping web-based sound design tool with Gen-AI features [SMACC LAB]
-img: assets/img/7.jpg
+description: [SMACC LAB]
+img: assets/img/project3.jpg
 importance: 3
 category: PhD
 ---

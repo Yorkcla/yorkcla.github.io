@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Sound Design Practices
-description: User study of practitioners in sonic interaction design [SMACC LAB]
-img: assets/img/5.jpg
+description: [SMACC LAB]
+img: assets/img/project2.jpg
 importance: 2
 category: PhD
 ---
