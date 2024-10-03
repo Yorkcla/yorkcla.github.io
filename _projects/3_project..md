@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI-powered Creativity Support Tool for Sonic Interaction Design
+title: AI-powered Sound Design Tool
 description: [SMACC LAB]
 img: assets/img/project3.jpg
 importance: 3

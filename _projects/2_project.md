@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sound and UX Design Practices
+title: Sound Design Practices
 description: [SMACC LAB]
 img: assets/img/project2.jpg
 importance: 2
