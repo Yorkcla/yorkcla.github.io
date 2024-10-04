@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: 3️⃣
 description: Scenario-Based Design to Envision How GenAI Can Support Sound Design Practices [SMACC LAB]
 img: assets/img/project3.jpg
 importance: 3
