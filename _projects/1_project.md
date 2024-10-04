@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sonification and Music 
+title: Sonification and Music - A Systematic Literature Review
 description: [SMACC LAB]
 img: assets/img/project1.jpg
 importance: 1
