@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: 1️⃣
 description: Sonification and Music [SMACC LAB]
 img: assets/img/project1.jpg
 importance: 1
