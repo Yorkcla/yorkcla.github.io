@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI-powered Sound Design Tool
-description: [SMACC LAB]
+title: 
+description: Scenario-Based Design to Envision How GenAI Can Support Sound Design Practices [SMACC LAB]
 img: assets/img/project3.jpg
 importance: 3
 category: PhD

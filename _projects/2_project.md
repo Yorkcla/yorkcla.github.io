@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sound Design Practices
-description: [SMACC LAB]
+title: 
+description: Tonal Cognition in Sonifcation - Exploring the Needs of Practitioners in Sonic Interaction Design [SMACC LAB]
 img: assets/img/project2.jpg
 importance: 2
 category: PhD

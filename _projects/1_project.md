@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sonification and Music 
-description: [SMACC LAB]
+title: 
+description: Sonification and Music [SMACC LAB]
 img: assets/img/project1.jpg
 importance: 1
 category: PhD
