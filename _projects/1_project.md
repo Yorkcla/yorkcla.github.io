@@ -24,4 +24,3 @@ Sonification, translating data into audible forms by mapping it to sound paramet
 [Check the overall datasets on Github](https://github.com/Yorkcla/Systematic-Literature-Review-on-Sonifcation-and-Music)
 
 Preparing to publish, details coming soon 🚀
-Preparing to publish, details coming soon 🚀
