@@ -8,4 +8,4 @@ services:
     volumes:
       - .:/srv/jekyll
     environment:
-      - JEKYLL_ENV=development  # Set Jekyll environment to development
+      - JEKYLL_ENV=production # Set Jekyll environment to production
