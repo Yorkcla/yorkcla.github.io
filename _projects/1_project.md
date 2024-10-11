@@ -23,4 +23,4 @@ Sonification, translating data into audible forms by mapping it to sound paramet
 
 [naver](https://www.naver.com/)
 
-Preparing to publish, details coming soon 🚀
+Preparing to publish, details coming soon 🚀🚀
