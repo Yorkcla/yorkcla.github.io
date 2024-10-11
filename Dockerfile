@@ -32,7 +32,6 @@ WORKDIR /srv/jekyll
 # install jekyll and dependencies
 RUN gem install jekyll bundler
 RUN bundle install --no-cache
-RUN pip install jupyter
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 
