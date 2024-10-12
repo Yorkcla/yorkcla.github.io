@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 1️⃣
-description: Human-centered design in acoustics education for undergraduate music majors [Personal]
+description: Human-Centered Design in Acoustics Education for Undergraduate Music Majors [Personal]
 img: assets/img/Mproject1.jpg
 importance: 1
 category: Master
