@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 0️⃣
-description: Music theoretical approach to auditory interface design - progressive, explainable, and accessible [SMACC LAB]
+description: Music Theoretical Approach to Auditory Interface Design - Progressive, Explainable, and Accessible [SMACC LAB]
 img: assets/img/project0.jpg
 importance: 1
 category: PhD
