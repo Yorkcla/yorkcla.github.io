@@ -5,7 +5,7 @@ permalink: /projects/
 description: Previous and ongoing research 🙂
 nav: true
 nav_order: 3
-display_categories: [PhD, Fun]
+display_categories: [PhD, Master]
 horizontal: false
 ---
 
