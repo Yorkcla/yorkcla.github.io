@@ -3,7 +3,7 @@ layout: page
 title: 1️⃣
 description: Sonification through Musical Lenses - A Systematic Literature Review [SMACC LAB]
 img: assets/img/project1.jpg
-importance: 1
+importance: 2
 category: PhD
 ---
 

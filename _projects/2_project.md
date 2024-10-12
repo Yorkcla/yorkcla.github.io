@@ -3,7 +3,7 @@ layout: page
 title: 2️⃣
 description: Tonal Cognition in Sonifcation - Exploring the Needs of Practitioners in Sonic Interaction Design [SMACC LAB]
 img: assets/img/project2.jpg
-importance: 2
+importance: 3
 category: PhD
 ---
 
