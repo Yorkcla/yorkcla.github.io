@@ -8,11 +8,11 @@ category: PhD
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/introdudction.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/introduction.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    A music-theoretical approach to auditory interface design, followed by the development of a design method and a supporting tool. 
+    A music-theoretical approach to auditory interface, followed by the development of a design method and a supporting tool. 
 </div> 
 
 This project outlines the design of my PhD study, specifying the purpose, methods, and expected projects. Although certain aspects of the research may evolve over time, this plan offers a comprehensive overview of the study, which centers on tonal cognition in sonic interaction design and the development of a creativity support tool for practitioners. Below is the abstract. 
