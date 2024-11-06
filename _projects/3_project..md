@@ -25,4 +25,4 @@ Sound design involves crafting communicative sonic interfaces such as warning an
 
 Accepted to publish at the Australian Computer-Human Interaction Conference 2024, 🚀
 
-[Click for the repository](https://github.com/Yorkcla/AI-powered-CST-for-sound-design)
+[[Repository]](https://github.com/Yorkcla/AI-powered-CST-for-sound-design)
