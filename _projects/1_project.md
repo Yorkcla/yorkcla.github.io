@@ -29,4 +29,4 @@ between medicine and vision, music as a universal catalyst in interactive sonifi
 and strategic variable positioning with music understanding. This study contributes by categorising literature on sonification and
 music, uncovering intertwined trends in interdisciplinary settings, and offering insights for future research opportunities.
 
-Preparing to publish, details coming soon 🚀 [[Data]](https://github.com/Yorkcla/Systematic-Literature-Review-on-Sonifcation-and-Music)
+Preparing to publish, details coming soon 🚀 [[data]](https://github.com/Yorkcla/Systematic-Literature-Review-on-Sonifcation-and-Music)

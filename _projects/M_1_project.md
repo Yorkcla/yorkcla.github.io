@@ -13,10 +13,10 @@ category: Master
     </div>
 </div>
 <div class="caption">
-    The results of a K-means clustering algorithm over the 17 Likert responses. Each value indicates the corresponding element of the cluster centroid vector—that is, the average response to the given question within the cluster. A response of “1” indicates strong disagreement and a a response of “7” indicates strong agreement with the prompt. The cells are colored according to the magnitude of the corresponding numerical entry.
+    The results of a K-means clustering algorithm over the 17 Likert responses. Each value indicates the corresponding element of the cluster centroid vector—that is, the average response to the given question within the cluster. A response of “1” indicates strong disagreement and a a response of “7” indicates strong agreement with the prompt.
 </div> 
 
 
 An acoustics course for undergraduate music majors should take advantage of the natural affinity between acoustic science and musical practice. In this study, current students and recent graduates of one university's music school were surveyed with the goal of assessing their unique needs in an acoustics curriculum. The results of the survey are reported, and several curriculum recommendations are provided based on the principles of human-centered design. In particular, the acoustics course can harness musicians' intuitive understanding of sound by incorporating musical instruments into classroom demonstrations. Also, acoustics instructors should strive to introduce students to acoustical software, which is also used in the music industry. Finally, the survey findings suggest that the contemporary shift toward active learning and technology-based instruction in acoustics pedagogy is beneficial to music students.
 
-Published in the Journal of the Acoustical Society of America [[Paper]](https://pubs.aip.org/asa/jasa/article/151/4/2282/2838162)
+Published in the Journal of the Acoustical Society of America [[paper]](https://pubs.aip.org/asa/jasa/article/151/4/2282/2838162)
