@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3️⃣
+title: 4️⃣
 description: A Musical Tension and Release Framework for Sonic Interaction Designers [SMACC LAB]
 img: assets/img/project4.jpg
 importance: 5
