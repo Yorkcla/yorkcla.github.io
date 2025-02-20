@@ -20,4 +20,4 @@ Music and beyond 🎧; I'm a computer science PhD candidate doing research at th
 
 I began my academic journey as a clarinetist and earned an undergraduate degree in musicology. I engaged in industrial engineering projects during my master's studies, which led me to become an interdisciplinary researcher at the intersection of sound, human, and interaction design.
 
-I am developing a creativity support tool for sonic interaction design that applies cognitive principles of tonal music.
+I am developing a AI-featured creativity support tool for sonic interaction design that applies cognitive principles of tonal music.
