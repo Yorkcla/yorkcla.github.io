@@ -17,4 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 Music and beyond 🎧; I'm a computer science PhD candidate doing research at the intersections of sound, music, and HCI at [ANU](https://www.anu.edu.au/).
 
-I began my academic journey as a clarinetist, leading to an undergraduate degree in musicology. I engaged in industrial engineering projects during my master's studies in human factors. I am currently developing an AI-augmented creativity support tool for sonic interaction design that applies cognitive principles of tonal music.
+I began my academic journey as a clarinetist, leading to an undergraduate degree in musicology. I engaged in industrial engineering projects during my master's studies in human factors. 
+
+I am currently developing an AI-augmented creativity support tool for sonic interaction design that applies cognitive principles of tonal music.
