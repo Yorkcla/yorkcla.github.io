@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1️⃣
+title: Literature Review 
 description: Musical Perspectives on Sonification - A Systematic Literature Review
 img: assets/img/project1.jpg
 importance: 2

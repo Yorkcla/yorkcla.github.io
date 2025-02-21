@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4️⃣
+title: Design Framework
 description: A Musical Tension and Release Framework for Sonic Interaction Designers
 img: assets/img/project4.jpg
 importance: 5

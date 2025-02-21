@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3️⃣
+title: Prototyping
 description: Scenario-Based Design to Envision How GenAI Can Support Sound Design Practices
 img: assets/img/project3.jpg
 importance: 4

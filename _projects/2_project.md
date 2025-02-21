@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2️⃣
+title: Needs Finding
 description: Tonal Cognition in Sonifcation - Exploring the Needs of Practitioners in Sonic Interaction Design
 img: assets/img/project2.jpg
 importance: 3
