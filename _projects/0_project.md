@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Plan
+title: 0️⃣
 description: Music Theoretical Approach to Auditory Interface Design - Progressive, Explainable, and Accessible
 img: assets/img/project0.jpg
 importance: 1
