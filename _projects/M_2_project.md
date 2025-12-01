@@ -2,7 +2,7 @@
 layout: page
 title: 🐾
 description: Subjective Perception based on Acoustical Parameters for In-Vehicle Virtual Sound
-img: assets/img/masters.jpg
+img: assets/img/Mproject2.jpg
 importance: 2
 category: Master
 ---
