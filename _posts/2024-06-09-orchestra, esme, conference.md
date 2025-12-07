@@ -6,7 +6,7 @@ description: 최근에 말이야..
 tags: Orchestra Esme TPR Conference
 categories: everyday
 ---
-
+<span style="font-family: 'Courier New', monospace; font-size: 1.02em;">
 블로그를 꾸준하게 작성하는 것은 역시나 일이다.. 그래도 일기처럼 조용해질 때마다 미래의 나를 위해 조금씩 끄적이자.
 
 <hr>
@@ -22,4 +22,4 @@ categories: everyday
 아.. 어제(6월 10일) 신부님, 성당 사람들과 연구실에 와서 커피를 마셨는데 뭔가 한 줄 남기고 싶었음! 퀄리티 타임이었다.
 
 정말로 안녕!
-
+</span>
