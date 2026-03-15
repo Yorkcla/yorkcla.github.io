@@ -13,7 +13,7 @@ categories: everyday
 
 * 곡: 조금 더 가까이 / 이노주사
 * 음원: [노래 듣기](https://youtu.be/0UxXilangh0?si=owPSnQS4YKO9ftOm)
-* 악보: [악보 보기](../assets/pdf/EasterMusic.pdf)
+* 악보: [악보 보기](/assets/pdf/EasterMusic.pdf)
 
 *3월 8일 1주차*
 
