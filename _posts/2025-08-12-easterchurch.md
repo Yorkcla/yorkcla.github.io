@@ -11,10 +11,9 @@ categories: everyday
 
 어떻게든 되겠지!
 
-곡:
-음원:
-악보:
-연습:
+곡: 조금 더 가까이 / 이노주사
+음원: [노래 듣기](https://youtu.be/0UxXilangh0?si=owPSnQS4YKO9ftOm)
+악보: [악보 보기](assets/pdf/EasterMusic.pdf)
 
 *3월 8일 1주차*
 
@@ -26,3 +25,11 @@ categories: everyday
 - 평소에 자주 듣고 가사랑 멜로디 익숙해지기
 - 악보 만들기 (합창 악보, 바순 악보)
 - 추가 논의사항
+
+*3월 15일 2주차*
+
+- 편곡 설명하기
+- 팀 정하기 (A/B)
+- 솔로 정하기 (A,B)
+- 율동 담당 정하기
+- 연습시간 정하기
